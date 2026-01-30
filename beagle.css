@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.top-section, 
+.image-section, 
+.trivia-section {
+  margin-bottom: 30px;
+}
+
+img {
+  width: 300px;
+  border-radius: 8px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
